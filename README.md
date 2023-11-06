@@ -20,3 +20,7 @@ Task 2 :- Portfolio
 ![image](https://github.com/abhishekraj4444/CodSoft-intern/assets/137677263/d4fb304c-e15f-4982-b205-3c71fc22e43f)
 
 ![image](https://github.com/abhishekraj4444/CodSoft-intern/assets/137677263/9e48fea4-92f6-4058-a69b-3ad8a43345fc)
+
+Task 3 :- Calculator
+
+![image](https://github.com/abhishekraj4444/CodSoft-intern/assets/137677263/3eed0e2a-8e46-4b60-9a4c-30642822ac51)
